@@ -13,8 +13,5 @@ This project analyzes sales performance using Power BI.
 - Delivery delay analysis
 - Profit and order tracking
 
-## 📷 Dashboard Preview
-(Add your screenshot here)
-
 ## 🚀 Author
-Your Name
+Gulamdastgir Shaikh
